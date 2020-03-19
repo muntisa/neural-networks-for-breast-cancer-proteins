@@ -14,6 +14,6 @@ This project is a collaboration from different institutions:
 - Escuela de Ciencias Físicas y Matemáticas, Universidad de Las Américas, Avenue de los Granados, Quito 170125, Ecuador
 - Facultad de Ingeniería y Ciencias Agropecuarias, Universidad de Las Américas, Avenue de los Granados, Quito 170125, Ecuador
 
-The results of these scripts are in publication.
+All jupyter notebooks have the results. Due to the file dimension we used ZIP archives. So, before to run the codes, please unzip the files in the corresponding folder after you clone the project.
 
 Have fun with ML! @muntisa
