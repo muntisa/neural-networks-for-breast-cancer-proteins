@@ -16,4 +16,12 @@ This project is a collaboration from different institutions:
 
 All jupyter notebooks have the results. Due to the file dimension we used ZIP archives. So, before to run the codes, please unzip the files in the corresponding folder after you clone the project.
 
+### Direct link to the article PDF
+
+You can read and download the full article at https://rdcu.be/b4lvx.
+
+### Cite this work
+
+López-Cortés, A., Cabrera-Andrade, A., Vázquez-Naya, J.M. et al. Prediction of breast cancer proteins involved in immunotherapy, metastasis, and RNA-binding using molecular descriptors and artificial neural networks. Sci Rep 10, 8515 (2020). https://doi.org/10.1038/s41598-020-65584-y
+
 Have fun with ML! @muntisa
